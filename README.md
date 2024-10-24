@@ -17,9 +17,8 @@ To view and run this project locally, you need:
 
 # Installation
 - 1.Clone the repository:
-git clone https://github.com/asheshgupta121git/protfolio.git
-
-- 3.Open index.html in your preferred web browser.
+  git clone https://github.com/asheshgupta121git/protfolio.git
+- 2.Open index.html in your preferred web browser.
 
 # Usage
 - Explore the various sections of the portfolio to see my work.
