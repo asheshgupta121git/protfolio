@@ -32,4 +32,4 @@ To view and run this project locally, you need:
 - Google Fonts for typography
 
   # live link
-  - https://asheshgupta121git.github.io/protfolio/
+  - [protfolio](https://asheshgupta121git.github.io/protfolio/)
